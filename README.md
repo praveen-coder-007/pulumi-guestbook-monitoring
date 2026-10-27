@@ -236,28 +236,28 @@ The `docs/screenshots/` directory contains screenshots captured during deploymen
 ## Screenshots
 
 ### 1. Guestbook application
-![Guestbook app](docs/screenshots/01-guestbook-app.png)
+![Guestbook app](docs/screenshots/guestbook-app.png)
 
 ### 2. Pulumi stack outputs
-![Stack outputs](docs/screenshots/02-stack-outputs.png)
+![Stack outputs](docs/screenshots/stack-outputs.png)
 
 ### 3. All pods running
-![Pods](docs/screenshots/03-kubectl-pods.png)
+![Pods](docs/screenshots/kubectl-pods.png)
 
 ### 4. Prometheus: redis-exporter target UP
-![Prometheus targets](docs/screenshots/04-prometheus-targets.png)
+![Prometheus targets](docs/screenshots/prometheus-targets.png)
 
 ### 5. Prometheus: redis_up query
-![redis_up](docs/screenshots/05-prometheus-redis-up.png)
+![redis_up](docs/screenshots/prometheus-redis-up.png)
 
 ### 6. Prometheus: Redis command rate
-![Redis command rate](docs/screenshots/06-prometheus-redis-query.png)
+![Redis command rate](docs/screenshots/prometheus-redis-query.png)
 
 ### 7. Grafana: Prometheus data source
-![Grafana data sources](docs/screenshots/07-grafana-datasources.png)
+![Grafana data sources](docs/screenshots/grafana-datasources.png)
 
 ### 8. Grafana: Guestbook Overview dashboard
-![Guestbook dashboard](docs/screenshots/08-grafana-guestbook-dashboard.png)
+![Guestbook dashboard](docs/screenshots/grafana-guestbook-dashboard.png)
 
 ## Clean up
 
